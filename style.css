@@ -2,3 +2,95 @@ body {
     font-family: 'Libre Baskerville', serif;
     margin: 0px;
 }
+
+h1{
+    font-size: 50px;
+    border-left: 5px solid orangered;
+    border-radius: 5px;
+    padding-left: 3%
+   
+}
+
+.orange-color{
+    color: orange;
+
+}
+.flexible-container{
+    display: flex;
+
+    
+}
+.half-width{
+    width:50%;
+    padding-left: 5%;
+    margin-top: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: orange;
+    background-color: orangered;
+    padding: 10px 40px;
+    color: white ;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.sec-half-width{
+    margin-left: 50px;
+   }
+
+.half-width img{
+    width: 70%;
+    padding-left: 15%;
+}
+
+h2{
+    margin-left: 570px;
+    font-weight: 3800;
+}
+
+.m-mission{
+    width: 25%;
+    box-shadow: 7px 7px 25px gray;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-left: 3%;
+    border-radius: 10px;
+    
+}
+.img{
+    width: 50%;
+}
+.light-blue-color{
+    background-color: rgb(207, 235, 245);
+}
+.light-pink-color{
+    background-color: rgb(235, 183, 215);
+}
+.light-orange-color{
+    background-color: rgb(250, 205, 168);
+}
+.develop-lim{
+    
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 250px;
+    background-position: fixed ;
+    margin-bottom: 100px;
+}
+.sec-half-wid{
+    margin-right:350px;
+    margin-top: 75px;
+   }
+.half-img{
+    width: 60%;
+    margin-left: 100px;
+} 
+.my-mission{
+    margin-bottom: 100px;
+}
+.sec-half-widt{
+    margin-left: 250px;
+    margin-top: 75pxpx;
+}
